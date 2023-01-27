@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Corrigindo bugs 👀</h1>
+<h1 align="center"> Projeto - Recriando Layout 👀</h1>
 
 <p align="center">
 Nesse desafio, recebemos o dever de recriar uma aplicação, a partir de um layout pronto no Figma cujo link está acima, para fortalecer alguns conceitos aprendidos em aula, entre eles:
@@ -69,4 +69,4 @@ Interpretação de layouts (Figma)
 ## Você pode acessar pelo site abaixo:
 https://flutuar-livid.vercel.app/
 
-Feito com ♥ by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
