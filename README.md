@@ -40,7 +40,6 @@ Introdução ao HTML e CSS.
 ## 🔖 Layout do projeto
 
 ![PRO2-1](https://user-images.githubusercontent.com/94652702/214948613-fce8b428-15b0-4331-8fe1-8da07ae51666.png)
-Segundo commit.
 
 ## Aprendizado
 
