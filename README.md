@@ -68,4 +68,4 @@ Interpretação de layouts (Figma)
 ## Você pode acessar pelo site abaixo:
 https://flutuar-livid.vercel.app/
 
-Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com 🧡 by Taiane Karine
